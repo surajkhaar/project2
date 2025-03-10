@@ -1,0 +1,15 @@
+.defaultCircle {
+    transition: stroke-dashoffset 0.3s;
+}
+
+.runningCircle {
+    stroke: #f44336;
+}
+
+.pausedCircle {
+    stroke: #ffeb3b;
+}
+
+.finishedCircle {
+    stroke: #4caf50;
+}
